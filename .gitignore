@@ -1,0 +1,4 @@
+.env
+monitor.log
+test-state.json
+node_modules/

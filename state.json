@@ -1,0 +1,495 @@
+{
+  "checkedAt": "2026-07-06T08:43:13.257Z",
+  "urls": [
+    "https://www.chromehearts.com/baccarat",
+    "https://www.chromehearts.com/scents",
+    "https://www.chromehearts.com/boxers-leggings",
+    "https://www.chromehearts.com/intimates",
+    "https://www.chromehearts.com/socks"
+  ],
+  "inStockIds": [
+    "092826AI6XXXXXX",
+    "146053XXXXXX00R",
+    "146053XXXXXX142",
+    "151407XXXXXX00S",
+    "151407XXXXXX169",
+    "158553XXXXXXXXX",
+    "162006CRYXXX272",
+    "162008CRYXXX271",
+    "162008CRYXXX272",
+    "162045CRYXXX273",
+    "162045CRYXXX274",
+    "164943XXXXXX140",
+    "165064XXXXXX140",
+    "172571CRYXXX273",
+    "172571CRYXXX274",
+    "174131CRYXXX013",
+    "174132CRYXXX015",
+    "175740XXXXXX273",
+    "175740XXXXXX274",
+    "176354XXXXXX349",
+    "177730CRYXXX013",
+    "177731CRYXXX042",
+    "177732CRYXXX042",
+    "177733CRYXXX042",
+    "177734CRYXXX042",
+    "179527XXXXXX273",
+    "179527XXXXXX274",
+    "191716ADLXXX406",
+    "201581AFWXXX031",
+    "201583AFWXXX033",
+    "201584AFWXXX030",
+    "201585AFWXXX030",
+    "201635AFWXXX033",
+    "202334AFWXXX030",
+    "207467CRYXXX054",
+    "207468CRYXXX055",
+    "208280XXXXXXXXX",
+    "208531BLUXXX752",
+    "208531PNKXXX751",
+    "209670XXXXXXXXX"
+  ],
+  "products": [
+    {
+      "id": "177730CRYXXX013",
+      "name": "ASHTRAY",
+      "price": "$3,150",
+      "status": "in_stock",
+      "inStock": true,
+      "category": "Baccarat",
+      "url": "https://www.chromehearts.com/baccarat/ashtray/177730CRYXXX013.html"
+    },
+    {
+      "id": "177731CRYXXX042",
+      "name": "CHAMPAGNE FLUTE",
+      "price": "$2,800",
+      "status": "in_stock",
+      "inStock": true,
+      "category": "Baccarat",
+      "url": "https://www.chromehearts.com/baccarat/champagne-flute/177731CRYXXX042.html"
+    },
+    {
+      "id": "174131CRYXXX013",
+      "name": "DECANTER",
+      "price": "$4,275",
+      "status": "in_stock",
+      "inStock": true,
+      "category": "Baccarat",
+      "url": "https://www.chromehearts.com/baccarat/decanter/174131CRYXXX013.html"
+    },
+    {
+      "id": "177734CRYXXX042",
+      "name": "MARTINI",
+      "price": "$2,625",
+      "status": "in_stock",
+      "inStock": true,
+      "category": "Baccarat",
+      "url": "https://www.chromehearts.com/baccarat/martini/177734CRYXXX042.html"
+    },
+    {
+      "id": "207467CRYXXX054",
+      "name": "SHOT GLASS",
+      "price": "$2,400",
+      "status": "in_stock",
+      "inStock": true,
+      "category": "Baccarat",
+      "url": "https://www.chromehearts.com/baccarat/shot-glass/207467CRYXXX054.html"
+    },
+    {
+      "id": "207468CRYXXX055",
+      "name": "TRIPLE OLD FASHION",
+      "price": "$3,850",
+      "status": "in_stock",
+      "inStock": true,
+      "category": "Baccarat",
+      "url": "https://www.chromehearts.com/baccarat/triple-old-fashion/207468CRYXXX055.html"
+    },
+    {
+      "id": "174132CRYXXX015",
+      "name": "TUMBLER",
+      "price": "$2,625",
+      "status": "in_stock",
+      "inStock": true,
+      "category": "Baccarat",
+      "url": "https://www.chromehearts.com/baccarat/tumbler/174132CRYXXX015.html"
+    },
+    {
+      "id": "177732CRYXXX042",
+      "name": "WATER",
+      "price": "$2,200",
+      "status": "in_stock",
+      "inStock": true,
+      "category": "Baccarat",
+      "url": "https://www.chromehearts.com/baccarat/water/177732CRYXXX042.html"
+    },
+    {
+      "id": "177733CRYXXX042",
+      "name": "WINE",
+      "price": "$2,200",
+      "status": "in_stock",
+      "inStock": true,
+      "category": "Baccarat",
+      "url": "https://www.chromehearts.com/baccarat/wine/177733CRYXXX042.html"
+    },
+    {
+      "id": "209670XXXXXXXXX",
+      "name": "BOXER BRIEF - CLASSIC RIB",
+      "price": "$120",
+      "status": "in_stock",
+      "inStock": true,
+      "category": "BOXERS & LEGGINGS",
+      "url": "https://www.chromehearts.com/boxers-leggings/boxer-brief---classic-rib/209670XXXXXXXXX.html?dwvar_209670XXXXXXXXX_color=D7N&quantity=1&dwvar_209670XXXXXXXXX_size=1XL"
+    },
+    {
+      "id": "158553XXXXXXXXX",
+      "name": "BOXER BRIEF - LONG",
+      "price": "$90",
+      "status": "in_stock",
+      "inStock": true,
+      "category": "BOXERS & LEGGINGS",
+      "url": "https://www.chromehearts.com/boxers-leggings/boxer-brief---long/158553XXXXXXXXX.html?dwvar_158553XXXXXXXXX_color=BLK&quantity=1&dwvar_158553XXXXXXXXX_size=SML"
+    },
+    {
+      "id": "208280XXXXXXXXX",
+      "name": "FOTI BOXER BRIEF - LONG",
+      "price": "$100",
+      "status": "in_stock",
+      "inStock": true,
+      "category": "BOXERS & LEGGINGS",
+      "url": "https://www.chromehearts.com/boxers-leggings/foti-boxer-brief---long/208280XXXXXXXXX.html?dwvar_208280XXXXXXXXX_color=AYN&quantity=1&dwvar_208280XXXXXXXXX_size=SML"
+    },
+    {
+      "id": "165064XXXXXX140",
+      "name": "LEGGINGS",
+      "price": "$245",
+      "status": "in_stock",
+      "inStock": true,
+      "category": "BOXERS & LEGGINGS",
+      "url": "https://www.chromehearts.com/boxers-leggings/leggings/165064XXXXXX140.html?dwvar_165064XXXXXX140_color=BLK&quantity=1&dwvar_165064XXXXXX140_size=LRG"
+    },
+    {
+      "id": "164943XXXXXX140",
+      "name": "LONG JOHNS",
+      "price": "$245",
+      "status": "in_stock",
+      "inStock": true,
+      "category": "BOXERS & LEGGINGS",
+      "url": "https://www.chromehearts.com/boxers-leggings/long-johns/164943XXXXXX140.html?dwvar_164943XXXXXX140_color=BLK&quantity=1&dwvar_164943XXXXXX140_size=SML"
+    },
+    {
+      "id": "092826AI6XXXXXX",
+      "name": "CH PLUS TIGHTS",
+      "price": "$255",
+      "status": "in_stock",
+      "inStock": true,
+      "category": "INTIMATES",
+      "url": "https://www.chromehearts.com/intimates/ch-plus-tights/092826AI6XXXXXX.html?dwvar_092826AI6XXXXXX_size=SZ2"
+    },
+    {
+      "id": "201584AFWXXX030",
+      "name": "LACE G-STRING",
+      "price": "$220",
+      "status": "in_stock",
+      "inStock": true,
+      "category": "INTIMATES",
+      "url": "https://www.chromehearts.com/intimates/lace-g-string/201584AFWXXX030.html?dwvar_201584AFWXXX030_size=XSM"
+    },
+    {
+      "id": "201583AFWXXX033",
+      "name": "LACE HIGH-WAISTED BRIEF",
+      "price": "$385",
+      "status": "in_stock",
+      "inStock": true,
+      "category": "INTIMATES",
+      "url": "https://www.chromehearts.com/intimates/lace-high-waisted-brief/201583AFWXXX033.html?dwvar_201583AFWXXX033_size=XSM"
+    },
+    {
+      "id": "201585AFWXXX030",
+      "name": "LACE TEDDY",
+      "price": "$990",
+      "status": "in_stock",
+      "inStock": true,
+      "category": "INTIMATES",
+      "url": "https://www.chromehearts.com/intimates/lace-teddy/201585AFWXXX030.html?dwvar_201585AFWXXX030_size=XSM"
+    },
+    {
+      "id": "201635AFWXXX033",
+      "name": "LACE THONG",
+      "price": "$275",
+      "status": "in_stock",
+      "inStock": true,
+      "category": "INTIMATES",
+      "url": "https://www.chromehearts.com/intimates/lace-thong/201635AFWXXX033.html?dwvar_201635AFWXXX033_size=MED"
+    },
+    {
+      "id": "201582AFWXXX031",
+      "name": "LACE TRIANGLE BRA",
+      "price": "$355",
+      "status": "out_of_stock",
+      "inStock": false,
+      "category": "INTIMATES",
+      "url": "https://www.chromehearts.com/intimates/lace-triangle-bra/201582AFWXXX031.html"
+    },
+    {
+      "id": "201581AFWXXX031",
+      "name": "LACE TRIANGLE BRALETTE",
+      "price": "$330",
+      "status": "in_stock",
+      "inStock": true,
+      "category": "INTIMATES",
+      "url": "https://www.chromehearts.com/intimates/lace-triangle-bralette/201581AFWXXX031.html?dwvar_201581AFWXXX031_size=SML"
+    },
+    {
+      "id": "202334AFWXXX030",
+      "name": "LACE UNDERWIRE BRA",
+      "price": "$385",
+      "status": "in_stock",
+      "inStock": true,
+      "category": "INTIMATES",
+      "url": "https://www.chromehearts.com/intimates/lace-underwire-bra/202334AFWXXX030.html?dwvar_202334AFWXXX030_size=32B"
+    },
+    {
+      "id": "162006CRYXXX271",
+      "name": "+22+ Eau de Parfum",
+      "price": "$500",
+      "status": "out_of_stock",
+      "inStock": false,
+      "category": "Scents",
+      "url": "https://www.chromehearts.com/scents/22-eau-de-parfum/162006CRYXXX271.html"
+    },
+    {
+      "id": "151407XXXXXX00S",
+      "name": "+22+ Incense Refill",
+      "price": "$100",
+      "status": "in_stock",
+      "inStock": true,
+      "category": "Scents",
+      "url": "https://www.chromehearts.com/scents/22-incense-refill/151407XXXXXX00S.html"
+    },
+    {
+      "id": "146053XXXXXX00R",
+      "name": "+22+ Incense Set with Holder",
+      "price": "$200",
+      "status": "in_stock",
+      "inStock": true,
+      "category": "Scents",
+      "url": "https://www.chromehearts.com/scents/22-incense-set-with-holder/146053XXXXXX00R.html"
+    },
+    {
+      "id": "208531PNKXXX751",
+      "name": "+22+ Perfumed Hand Spray",
+      "price": "$110",
+      "status": "in_stock",
+      "inStock": true,
+      "category": "Scents",
+      "url": "https://www.chromehearts.com/scents/22-perfumed-hand-spray/208531PNKXXX751.html"
+    },
+    {
+      "id": "162008CRYXXX271",
+      "name": "+22+ Roll-On Perfume",
+      "price": "$220",
+      "status": "in_stock",
+      "inStock": true,
+      "category": "Scents",
+      "url": "https://www.chromehearts.com/scents/22-roll-on-perfume/162008CRYXXX271.html"
+    },
+    {
+      "id": "172571CRYXXX273",
+      "name": "+22+ Scented Candle 100g",
+      "price": "$180",
+      "status": "in_stock",
+      "inStock": true,
+      "category": "Scents",
+      "url": "https://www.chromehearts.com/scents/22-scented-candle-100g/172571CRYXXX273.html"
+    },
+    {
+      "id": "162045CRYXXX273",
+      "name": "+22+ Scented Candle 220g",
+      "price": "$500",
+      "status": "in_stock",
+      "inStock": true,
+      "category": "Scents",
+      "url": "https://www.chromehearts.com/scents/22-scented-candle-220g/162045CRYXXX273.html"
+    },
+    {
+      "id": "175740XXXXXX273",
+      "name": "+22+ Scented Candle Refill 200g",
+      "price": "$150",
+      "status": "in_stock",
+      "inStock": true,
+      "category": "Scents",
+      "url": "https://www.chromehearts.com/scents/22-scented-candle-refill-200g/175740XXXXXX273.html"
+    },
+    {
+      "id": "214141D7BXXX01S",
+      "name": "+22+ Scented Candle Set 35G",
+      "price": "$150",
+      "status": "out_of_stock",
+      "inStock": false,
+      "category": "Scents",
+      "url": "https://www.chromehearts.com/scents/22-scented-candle-set-35g/214141D7BXXX01S.html"
+    },
+    {
+      "id": "179527XXXXXX273",
+      "name": "+22+ Soap on a Rope",
+      "price": "$90",
+      "status": "in_stock",
+      "inStock": true,
+      "category": "Scents",
+      "url": "https://www.chromehearts.com/scents/22-soap-on-a-rope/179527XXXXXX273.html"
+    },
+    {
+      "id": "162006CRYXXX272",
+      "name": "+33+ Eau de Parfum",
+      "price": "$500",
+      "status": "in_stock",
+      "inStock": true,
+      "category": "Scents",
+      "url": "https://www.chromehearts.com/scents/33-eau-de-parfum/162006CRYXXX272.html"
+    },
+    {
+      "id": "151407XXXXXX169",
+      "name": "+33+ Incense Refill",
+      "price": "$100",
+      "status": "in_stock",
+      "inStock": true,
+      "category": "Scents",
+      "url": "https://www.chromehearts.com/scents/33-incense-refill/151407XXXXXX169.html"
+    },
+    {
+      "id": "146053XXXXXX142",
+      "name": "+33+ Incense Set with Holder",
+      "price": "$200",
+      "status": "in_stock",
+      "inStock": true,
+      "category": "Scents",
+      "url": "https://www.chromehearts.com/scents/33-incense-set-with-holder/146053XXXXXX142.html"
+    },
+    {
+      "id": "208531BLUXXX752",
+      "name": "+33+ Perfumed Hand Spray",
+      "price": "$110",
+      "status": "in_stock",
+      "inStock": true,
+      "category": "Scents",
+      "url": "https://www.chromehearts.com/scents/33-perfumed-hand-spray/208531BLUXXX752.html"
+    },
+    {
+      "id": "162008CRYXXX272",
+      "name": "+33+ Roll-On Perfume",
+      "price": "$220",
+      "status": "in_stock",
+      "inStock": true,
+      "category": "Scents",
+      "url": "https://www.chromehearts.com/scents/33-roll-on-perfume/162008CRYXXX272.html"
+    },
+    {
+      "id": "172571CRYXXX274",
+      "name": "+33+ Scented Candle 100g",
+      "price": "$180",
+      "status": "in_stock",
+      "inStock": true,
+      "category": "Scents",
+      "url": "https://www.chromehearts.com/scents/33-scented-candle-100g/172571CRYXXX274.html"
+    },
+    {
+      "id": "162045CRYXXX274",
+      "name": "+33+ Scented Candle 220g",
+      "price": "$500",
+      "status": "in_stock",
+      "inStock": true,
+      "category": "Scents",
+      "url": "https://www.chromehearts.com/scents/33-scented-candle-220g/162045CRYXXX274.html"
+    },
+    {
+      "id": "175740XXXXXX274",
+      "name": "+33+ Scented Candle Refill 200g",
+      "price": "$150",
+      "status": "in_stock",
+      "inStock": true,
+      "category": "Scents",
+      "url": "https://www.chromehearts.com/scents/33-scented-candle-refill-200g/175740XXXXXX274.html"
+    },
+    {
+      "id": "214141D7BXXX01T",
+      "name": "+33+ Scented Candle Set 35G",
+      "price": "$150",
+      "status": "out_of_stock",
+      "inStock": false,
+      "category": "Scents",
+      "url": "https://www.chromehearts.com/scents/33-scented-candle-set-35g/214141D7BXXX01T.html"
+    },
+    {
+      "id": "179527XXXXXX274",
+      "name": "+33+ Soap on a Rope",
+      "price": "$90",
+      "status": "in_stock",
+      "inStock": true,
+      "category": "Scents",
+      "url": "https://www.chromehearts.com/scents/33-soap-on-a-rope/179527XXXXXX274.html"
+    },
+    {
+      "id": "148310SLVXXX186",
+      "name": "Matchstick Holder",
+      "price": "$1,500",
+      "status": "out_of_stock",
+      "inStock": false,
+      "category": "Scents",
+      "url": "https://www.chromehearts.com/scents/matchstick-holder/148310SLVXXX186.html"
+    },
+    {
+      "id": "176354XXXXXX349",
+      "name": "CH LOGO SOCKS",
+      "price": "$255",
+      "status": "in_stock",
+      "inStock": true,
+      "category": "Socks",
+      "url": "https://www.chromehearts.com/socks/ch-logo-socks/176354XXXXXX349.html?dwvar_176354XXXXXX349_color=MB9&quantity=1&dwvar_176354XXXXXX349_size=SML"
+    },
+    {
+      "id": "191716ADLXXX406",
+      "name": "EXECUTIVE SOCKS",
+      "price": "$255",
+      "status": "in_stock",
+      "inStock": true,
+      "category": "Socks",
+      "url": "https://www.chromehearts.com/socks/executive-socks/191716ADLXXX406.html?dwvar_191716ADLXXX406_size=MED"
+    },
+    {
+      "id": "180459XXXXXX389",
+      "name": "FOTI SOCKS",
+      "price": "$255",
+      "status": "out_of_stock",
+      "inStock": false,
+      "category": "Socks",
+      "url": "https://www.chromehearts.com/socks/foti-socks/180459XXXXXX389.html?dwvar_180459XXXXXX389_color=MB3&quantity=1&dwvar_180459XXXXXX389_size=MED"
+    },
+    {
+      "id": "176354XXXXXXXXX",
+      "name": "SPORT",
+      "price": "$255",
+      "status": "out_of_stock",
+      "inStock": false,
+      "category": "Socks",
+      "url": "https://www.chromehearts.com/socks/sport/176354XXXXXXXXX.html?dwvar_176354XXXXXXXXX_color=AEJ&quantity=1&dwvar_176354XXXXXXXXX_size=MED"
+    },
+    {
+      "id": "176354MB3XXX465",
+      "name": "STENCIL SOCKS",
+      "price": "$255",
+      "status": "out_of_stock",
+      "inStock": false,
+      "category": "Socks",
+      "url": "https://www.chromehearts.com/socks/stencil-socks/176354MB3XXX465.html"
+    },
+    {
+      "id": "191715D5DXXX408",
+      "name": "WOMENS SPORT",
+      "price": "$255",
+      "status": "out_of_stock",
+      "inStock": false,
+      "category": "Socks",
+      "url": "https://www.chromehearts.com/socks/womens-sport/191715D5DXXX408.html"
+    }
+  ]
+}

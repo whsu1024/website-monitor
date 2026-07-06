@@ -1,0 +1,13 @@
+{
+  "name": "chrome-hearts-monitor",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "check": "node monitor.mjs",
+    "dry-run": "DRY_RUN=true node monitor.mjs"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
