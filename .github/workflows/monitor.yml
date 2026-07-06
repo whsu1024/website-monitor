@@ -27,6 +27,7 @@ jobs:
       - name: Run monitor
         env:
           DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+          SEND_TEST_NOTIFICATION: "true"
         run: node monitor.mjs
 
       - name: Save monitor state if changed
