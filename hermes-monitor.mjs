@@ -106,7 +106,9 @@ function parseHermesProducts(html, categoryUrl) {
     const name = cleanText(block.match(/<span\b[^>]*class=["'][^"']*\bproduct-title\b[^"']*["'][^>]*>([\s\S]*?)<\/span>/i)?.[1] || title.split(",")[0]);
     const color = cleanText(title.split(",").slice(1).join(","));
     const price = cleanText(block).match(/NT\$\s*[\d,]+/)?.[0] || "";
-    const unavailable = /(缺貨|售罄|暫無庫存|not available|out of stock|sold out)/i.test(cleanText(block));
+    const unavailable =
+  /(?:h-out-of-stock-label|tag-unavailable)/i.test(block) ||
+  /(缺貨|售罄|暫無庫存|not available|out of stock|sold out)/i.test(cleanText(block));
 
     if (!id || !href || !name || !price) continue;
 
