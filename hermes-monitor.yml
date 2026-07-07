@@ -27,6 +27,8 @@ jobs:
       - name: Run Hermes monitor
         env:
           HERMES_DISCORD_WEBHOOK_URL: ${{ secrets.HERMES_DISCORD_WEBHOOK_URL }}
+          HERMES_NOTIFY_ON_FIRST_RUN: "true"
+          HERMES_STATE_PATH: "./hermes-test-state.json"
         run: node hermes-monitor.mjs
 
       - name: Save Hermes monitor state if changed
