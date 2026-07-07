@@ -5,7 +5,9 @@
   "type": "module",
   "scripts": {
     "check": "node monitor.mjs",
-    "dry-run": "DRY_RUN=true node monitor.mjs"
+    "dry-run": "DRY_RUN=true node monitor.mjs",
+    "hermes-check": "node hermes-monitor.mjs",
+    "hermes-dry-run": "DRY_RUN=true node hermes-monitor.mjs"
   },
   "engines": {
     "node": ">=18"
