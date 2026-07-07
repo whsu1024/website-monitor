@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-07-06T09:08:14.783Z",
+  "checkedAt": "2026-07-07T21:10:20.316Z",
   "urls": [
     "https://www.chromehearts.com/baccarat",
     "https://www.chromehearts.com/scents",
@@ -27,7 +27,9 @@
     "174132CRYXXX015",
     "175740XXXXXX273",
     "175740XXXXXX274",
+    "176354MB3XXX465",
     "176354XXXXXX349",
+    "176354XXXXXXXXX",
     "177730CRYXXX013",
     "177731CRYXXX042",
     "177732CRYXXX042",
@@ -35,6 +37,8 @@
     "177734CRYXXX042",
     "179527XXXXXX273",
     "179527XXXXXX274",
+    "180459XXXXXX389",
+    "191715D5DXXX408",
     "191716ADLXXX406",
     "201581AFWXXX031",
     "201583AFWXXX033",
@@ -459,8 +463,8 @@
       "id": "180459XXXXXX389",
       "name": "FOTI SOCKS",
       "price": "255",
-      "status": "out_of_stock",
-      "inStock": false,
+      "status": "in_stock",
+      "inStock": true,
       "category": "Socks",
       "url": "https://www.chromehearts.com/socks/foti-socks/180459XXXXXX389.html?dwvar_180459XXXXXX389_color=MB3&quantity=1&dwvar_180459XXXXXX389_size=MED"
     },
@@ -468,8 +472,8 @@
       "id": "176354XXXXXXXXX",
       "name": "SPORT",
       "price": "255",
-      "status": "out_of_stock",
-      "inStock": false,
+      "status": "in_stock",
+      "inStock": true,
       "category": "Socks",
       "url": "https://www.chromehearts.com/socks/sport/176354XXXXXXXXX.html?dwvar_176354XXXXXXXXX_color=AEJ&quantity=1&dwvar_176354XXXXXXXXX_size=MED"
     },
@@ -477,8 +481,8 @@
       "id": "176354MB3XXX465",
       "name": "STENCIL SOCKS",
       "price": "255",
-      "status": "out_of_stock",
-      "inStock": false,
+      "status": "in_stock",
+      "inStock": true,
       "category": "Socks",
       "url": "https://www.chromehearts.com/socks/stencil-socks/176354MB3XXX465.html"
     },
@@ -486,8 +490,8 @@
       "id": "191715D5DXXX408",
       "name": "WOMENS SPORT",
       "price": "255",
-      "status": "out_of_stock",
-      "inStock": false,
+      "status": "in_stock",
+      "inStock": true,
       "category": "Socks",
       "url": "https://www.chromehearts.com/socks/womens-sport/191715D5DXXX408.html"
     }
