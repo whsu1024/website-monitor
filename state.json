@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-07-07T21:10:20.316Z",
+  "checkedAt": "2026-07-08T17:14:14.399Z",
   "urls": [
     "https://www.chromehearts.com/baccarat",
     "https://www.chromehearts.com/scents",
@@ -142,7 +142,7 @@
       "status": "in_stock",
       "inStock": true,
       "category": "BOXERS & LEGGINGS",
-      "url": "https://www.chromehearts.com/boxers-leggings/boxer-brief---classic-rib/209670XXXXXXXXX.html?dwvar_209670XXXXXXXXX_color=D7N&quantity=1&dwvar_209670XXXXXXXXX_size=1XL"
+      "url": "https://www.chromehearts.com/boxers-leggings/boxer-brief---classic-rib/209670XXXXXXXXX.html?dwvar_209670XXXXXXXXX_color=D7N&quantity=1&dwvar_209670XXXXXXXXX_size=LRG"
     },
     {
       "id": "158553XXXXXXXXX",
@@ -448,7 +448,7 @@
       "status": "in_stock",
       "inStock": true,
       "category": "Socks",
-      "url": "https://www.chromehearts.com/socks/ch-logo-socks/176354XXXXXX349.html?dwvar_176354XXXXXX349_color=MB9&quantity=1&dwvar_176354XXXXXX349_size=SML"
+      "url": "https://www.chromehearts.com/socks/ch-logo-socks/176354XXXXXX349.html?dwvar_176354XXXXXX349_color=BLK&quantity=1&dwvar_176354XXXXXX349_size=SML"
     },
     {
       "id": "191716ADLXXX406",
@@ -484,7 +484,7 @@
       "status": "in_stock",
       "inStock": true,
       "category": "Socks",
-      "url": "https://www.chromehearts.com/socks/stencil-socks/176354MB3XXX465.html"
+      "url": "https://www.chromehearts.com/socks/stencil-socks/176354MB3XXX465.html?dwvar_176354MB3XXX465_size=SML"
     },
     {
       "id": "191715D5DXXX408",
@@ -493,7 +493,7 @@
       "status": "in_stock",
       "inStock": true,
       "category": "Socks",
-      "url": "https://www.chromehearts.com/socks/womens-sport/191715D5DXXX408.html"
+      "url": "https://www.chromehearts.com/socks/womens-sport/191715D5DXXX408.html?dwvar_191715D5DXXX408_size=SML"
     }
   ]
 }
