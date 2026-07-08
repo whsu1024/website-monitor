@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-07-07T14:46:11.330Z",
+  "checkedAt": "2026-07-08T04:02:07.961Z",
   "categoryUrl": "https://www.hermes.com/tw/zh/category/leather-goods/bags-and-clutches/womens-bags-and-clutches/",
   "targetLabels": [
     "Lindy 26",
@@ -17,79 +17,9 @@
     "Kelly Dance"
   ],
   "inStockIds": [
-    "H056289CCQ0",
-    "H056289CCT3",
-    "H069523CCAI",
-    "H069523CCBT",
-    "H069523CKCG",
-    "H070510CK18",
-    "H079195CKQ0",
-    "H085800CKAH",
-    "H085942CKAC",
-    "H085942CKAD",
     "H086430CKAR"
   ],
   "products": [
-    {
-      "id": "H085800CKAH",
-      "name": "Evelyne 16 Amazone肩背包",
-      "color": "綠色",
-      "price": "NT$ 89,100",
-      "status": "in_stock",
-      "inStock": true,
-      "url": "https://www.hermes.com/tw/zh/product/evelyne-16-amazone%E8%82%A9%E8%83%8C%E5%8C%85-H085800CKAH/",
-      "target": "Evelyne Mini"
-    },
-    {
-      "id": "H085942CKAC",
-      "name": "Evelyne III 29肩背包",
-      "color": "米色/原色",
-      "price": "NT$ 150,000",
-      "status": "in_stock",
-      "inStock": true,
-      "url": "https://www.hermes.com/tw/zh/product/evelyne-iii-29%E8%82%A9%E8%83%8C%E5%8C%85-H085942CKAC/",
-      "target": "Evelyne 29"
-    },
-    {
-      "id": "H085942CKAD",
-      "name": "Evelyne III 29肩背包",
-      "color": "米色/原色",
-      "price": "NT$ 150,000",
-      "status": "in_stock",
-      "inStock": true,
-      "url": "https://www.hermes.com/tw/zh/product/evelyne-iii-29%E8%82%A9%E8%83%8C%E5%8C%85-H085942CKAD/",
-      "target": "Evelyne 29"
-    },
-    {
-      "id": "H069523CCAI",
-      "name": "Halzan迷你肩背包",
-      "color": "米色/原色",
-      "price": "NT$ 214,300",
-      "status": "in_stock",
-      "inStock": true,
-      "url": "https://www.hermes.com/tw/zh/product/halzan%E8%BF%B7%E4%BD%A0%E8%82%A9%E8%83%8C%E5%8C%85-H069523CCAI/",
-      "target": "Halzan"
-    },
-    {
-      "id": "H069523CKCG",
-      "name": "Halzan迷你肩背包",
-      "color": "紫色",
-      "price": "NT$ 214,300",
-      "status": "in_stock",
-      "inStock": true,
-      "url": "https://www.hermes.com/tw/zh/product/halzan%E8%BF%B7%E4%BD%A0%E8%82%A9%E8%83%8C%E5%8C%85-H069523CKCG/",
-      "target": "Halzan"
-    },
-    {
-      "id": "H069523CCBT",
-      "name": "Halzan迷你肩背包",
-      "color": "綠色",
-      "price": "NT$ 214,300",
-      "status": "in_stock",
-      "inStock": true,
-      "url": "https://www.hermes.com/tw/zh/product/halzan%E8%BF%B7%E4%BD%A0%E8%82%A9%E8%83%8C%E5%8C%85-H069523CCBT/",
-      "target": "Halzan"
-    },
     {
       "id": "H086430CKAR",
       "name": "Herbag Zip 20手提包",
@@ -99,46 +29,6 @@
       "inStock": true,
       "url": "https://www.hermes.com/tw/zh/product/herbag-zip-20%E6%89%8B%E6%8F%90%E5%8C%85-H086430CKAR/",
       "target": "Herbag Mini"
-    },
-    {
-      "id": "H056289CCT3",
-      "name": "Picotin Lock 18手提包",
-      "color": "棕色",
-      "price": "NT$ 131,000",
-      "status": "in_stock",
-      "inStock": true,
-      "url": "https://www.hermes.com/tw/zh/product/picotin-lock-18%E6%89%8B%E6%8F%90%E5%8C%85-H056289CCT3/",
-      "target": "Picotin"
-    },
-    {
-      "id": "H056289CCQ0",
-      "name": "Picotin Lock 18手提包",
-      "color": "綠色",
-      "price": "NT$ 131,000",
-      "status": "in_stock",
-      "inStock": true,
-      "url": "https://www.hermes.com/tw/zh/product/picotin-lock-18%E6%89%8B%E6%8F%90%E5%8C%85-H056289CCQ0/",
-      "target": "Picotin"
-    },
-    {
-      "id": "H070510CK18",
-      "name": "Roulis迷你肩背包",
-      "color": "米色/原色",
-      "price": "NT$ 330,900",
-      "status": "in_stock",
-      "inStock": true,
-      "url": "https://www.hermes.com/tw/zh/product/roulis%E8%BF%B7%E4%BD%A0%E8%82%A9%E8%83%8C%E5%8C%85-H070510CK18/",
-      "target": "Roulis"
-    },
-    {
-      "id": "H079195CKQ0",
-      "name": "Roulis迷你肩背包",
-      "color": "綠色",
-      "price": "NT$ 333,300",
-      "status": "in_stock",
-      "inStock": true,
-      "url": "https://www.hermes.com/tw/zh/product/roulis%E8%BF%B7%E4%BD%A0%E8%82%A9%E8%83%8C%E5%8C%85-H079195CKQ0/",
-      "target": "Roulis"
     }
   ]
 }
