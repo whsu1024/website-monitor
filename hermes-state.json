@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-07-08T04:02:07.961Z",
+  "checkedAt": "2026-07-08T06:37:18.200Z",
   "categoryUrl": "https://www.hermes.com/tw/zh/category/leather-goods/bags-and-clutches/womens-bags-and-clutches/",
   "targetLabels": [
     "Lindy 26",
@@ -16,19 +16,6 @@
     "Roulis",
     "Kelly Dance"
   ],
-  "inStockIds": [
-    "H086430CKAR"
-  ],
-  "products": [
-    {
-      "id": "H086430CKAR",
-      "name": "Herbag Zip 20手提包",
-      "color": "綠色",
-      "price": "NT$ 105,300",
-      "status": "in_stock",
-      "inStock": true,
-      "url": "https://www.hermes.com/tw/zh/product/herbag-zip-20%E6%89%8B%E6%8F%90%E5%8C%85-H086430CKAR/",
-      "target": "Herbag Mini"
-    }
-  ]
+  "inStockIds": [],
+  "products": []
 }
