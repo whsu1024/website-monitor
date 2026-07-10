@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-07-09T17:26:09.170Z",
+  "checkedAt": "2026-07-10T17:23:03.154Z",
   "categoryUrl": "https://www.hermes.com/tw/zh/category/leather-goods/bags-and-clutches/womens-bags-and-clutches/",
   "targetLabels": [
     "Lindy 26",
@@ -16,74 +16,6 @@
     "Roulis",
     "Kelly Dance"
   ],
-  "inStockIds": [
-    "H056289CKD2",
-    "H069426CKFL",
-    "H079092CCAH",
-    "H082803CCAI",
-    "H085414CKAJ",
-    "H086430CCAJ"
-  ],
-  "products": [
-    {
-      "id": "H069426CKFL",
-      "name": "Evelyne 16 Amazone肩背包",
-      "color": "藍色",
-      "price": "NT$ 83,400",
-      "status": "in_stock",
-      "inStock": true,
-      "url": "https://www.hermes.com/tw/zh/product/evelyne-16-amazone%E8%82%A9%E8%83%8C%E5%8C%85-H069426CKFL/",
-      "target": "Evelyne Mini"
-    },
-    {
-      "id": "H085414CKAJ",
-      "name": "Herbag Zip 20手提包",
-      "color": "米色/原色",
-      "price": "NT$ 105,300",
-      "status": "in_stock",
-      "inStock": true,
-      "url": "https://www.hermes.com/tw/zh/product/herbag-zip-20%E6%89%8B%E6%8F%90%E5%8C%85-H085414CKAJ/",
-      "target": "Herbag Mini"
-    },
-    {
-      "id": "H086430CCAJ",
-      "name": "Herbag Zip 20手提包",
-      "color": "紅色",
-      "price": "NT$ 105,300",
-      "status": "in_stock",
-      "inStock": true,
-      "url": "https://www.hermes.com/tw/zh/product/herbag-zip-20%E6%89%8B%E6%8F%90%E5%8C%85-H086430CCAJ/",
-      "target": "Herbag Mini"
-    },
-    {
-      "id": "H082803CCAI",
-      "name": "Herbag Zip 31手提包",
-      "color": "多色",
-      "price": "NT$ 116,200",
-      "status": "in_stock",
-      "inStock": true,
-      "url": "https://www.hermes.com/tw/zh/product/herbag-zip-31%E6%89%8B%E6%8F%90%E5%8C%85-H082803CCAI/",
-      "target": "Herbag 31"
-    },
-    {
-      "id": "H079092CCAH",
-      "name": "Herbag Zip 31手提包",
-      "color": "米色/原色",
-      "price": "NT$ 116,200",
-      "status": "in_stock",
-      "inStock": true,
-      "url": "https://www.hermes.com/tw/zh/product/herbag-zip-31%E6%89%8B%E6%8F%90%E5%8C%85-H079092CCAH/",
-      "target": "Herbag 31"
-    },
-    {
-      "id": "H056289CKD2",
-      "name": "Picotin Lock 18手提包",
-      "color": "藍色",
-      "price": "NT$ 131,000",
-      "status": "in_stock",
-      "inStock": true,
-      "url": "https://www.hermes.com/tw/zh/product/picotin-lock-18%E6%89%8B%E6%8F%90%E5%8C%85-H056289CKD2/",
-      "target": "Picotin"
-    }
-  ]
+  "inStockIds": [],
+  "products": []
 }
