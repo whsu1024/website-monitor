@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-07-10T21:32:51.068Z",
+  "checkedAt": "2026-07-11T20:28:43.482Z",
   "urls": [
     "https://www.chromehearts.com/baccarat",
     "https://www.chromehearts.com/scents",
@@ -27,7 +27,6 @@
     "174132CRYXXX015",
     "175740XXXXXX273",
     "175740XXXXXX274",
-    "176354MB3XXX465",
     "176354XXXXXX349",
     "176354XXXXXXXXX",
     "177730CRYXXX013",
@@ -480,8 +479,8 @@
       "id": "176354MB3XXX465",
       "name": "STENCIL SOCKS",
       "price": "255",
-      "status": "in_stock",
-      "inStock": true,
+      "status": "out_of_stock",
+      "inStock": false,
       "category": "Socks",
       "url": "https://www.chromehearts.com/socks/stencil-socks/176354MB3XXX465.html?dwvar_176354MB3XXX465_size=SML"
     },
