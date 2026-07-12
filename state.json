@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-07-12T15:36:29.859Z",
+  "checkedAt": "2026-07-12T18:42:13.733Z",
   "urls": [
     "https://www.chromehearts.com/baccarat",
     "https://www.chromehearts.com/scents",
@@ -32,6 +32,7 @@
     "177730CRYXXX013",
     "177731CRYXXX042",
     "177732CRYXXX042",
+    "177733CRYXXX042",
     "177734CRYXXX042",
     "179527XXXXXX273",
     "179527XXXXXX274",
@@ -127,8 +128,8 @@
       "id": "177733CRYXXX042",
       "name": "WINE",
       "price": "2200",
-      "status": "out_of_stock",
-      "inStock": false,
+      "status": "in_stock",
+      "inStock": true,
       "category": "Baccarat",
       "url": "https://www.chromehearts.com/baccarat/wine/177733CRYXXX042.html"
     },
