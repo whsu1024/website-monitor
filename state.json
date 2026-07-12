@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-07-11T20:28:43.482Z",
+  "checkedAt": "2026-07-12T15:36:29.859Z",
   "urls": [
     "https://www.chromehearts.com/baccarat",
     "https://www.chromehearts.com/scents",
@@ -32,7 +32,6 @@
     "177730CRYXXX013",
     "177731CRYXXX042",
     "177732CRYXXX042",
-    "177733CRYXXX042",
     "177734CRYXXX042",
     "179527XXXXXX273",
     "179527XXXXXX274",
@@ -128,8 +127,8 @@
       "id": "177733CRYXXX042",
       "name": "WINE",
       "price": "2200",
-      "status": "in_stock",
-      "inStock": true,
+      "status": "out_of_stock",
+      "inStock": false,
       "category": "Baccarat",
       "url": "https://www.chromehearts.com/baccarat/wine/177733CRYXXX042.html"
     },
@@ -482,7 +481,7 @@
       "status": "out_of_stock",
       "inStock": false,
       "category": "Socks",
-      "url": "https://www.chromehearts.com/socks/stencil-socks/176354MB3XXX465.html?dwvar_176354MB3XXX465_size=SML"
+      "url": "https://www.chromehearts.com/socks/stencil-socks/176354MB3XXX465.html"
     },
     {
       "id": "191715D5DXXX408",
