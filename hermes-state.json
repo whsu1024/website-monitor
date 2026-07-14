@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-07-14T07:22:12.391Z",
+  "checkedAt": "2026-07-14T12:02:32.268Z",
   "categoryUrl": "https://www.hermes.com/tw/zh/category/leather-goods/bags-and-clutches/womens-bags-and-clutches/",
   "targetLabels": [
     "Lindy 26",
@@ -16,74 +16,6 @@
     "Roulis",
     "Kelly Dance"
   ],
-  "inStockIds": [
-    "H056289CK2D",
-    "H060991CKH0",
-    "H082027CKJ7",
-    "H086435CKAE",
-    "H087229CKAA",
-    "H087943CCAI"
-  ],
-  "products": [
-    {
-      "id": "H087229CKAA",
-      "name": "Evelyne 16 Amazone肩背包",
-      "color": "米色/原色",
-      "price": "NT$ 89,100",
-      "status": "in_stock",
-      "inStock": true,
-      "url": "https://www.hermes.com/tw/zh/product/evelyne-16-amazone%E8%82%A9%E8%83%8C%E5%8C%85-H087229CKAA/",
-      "target": "Evelyne Mini"
-    },
-    {
-      "id": "H082027CKJ7",
-      "name": "Halzan 25肩背包",
-      "color": "藍色",
-      "price": "NT$ 216,600",
-      "status": "in_stock",
-      "inStock": true,
-      "url": "https://www.hermes.com/tw/zh/product/halzan-25%E8%82%A9%E8%83%8C%E5%8C%85-H082027CKJ7/",
-      "target": "Halzan"
-    },
-    {
-      "id": "H087943CCAI",
-      "name": "Herbag Zip 31口袋手提包",
-      "color": "黑色",
-      "price": "NT$ 145,200",
-      "status": "in_stock",
-      "inStock": true,
-      "url": "https://www.hermes.com/tw/zh/product/herbag-zip-31%E5%8F%A3%E8%A2%8B%E6%89%8B%E6%8F%90%E5%8C%85-H087943CCAI/",
-      "target": "Herbag 31"
-    },
-    {
-      "id": "H086435CKAE",
-      "name": "Lindy II迷你肩背包",
-      "color": "藍色",
-      "price": "NT$ 311,800",
-      "status": "in_stock",
-      "inStock": true,
-      "url": "https://www.hermes.com/tw/zh/product/lindy-ii%E8%BF%B7%E4%BD%A0%E8%82%A9%E8%83%8C%E5%8C%85-H086435CKAE/",
-      "target": "Mini Lindy"
-    },
-    {
-      "id": "H056289CK2D",
-      "name": "Picotin Lock 18手提包",
-      "color": "米色/原色",
-      "price": "NT$ 131,000",
-      "status": "in_stock",
-      "inStock": true,
-      "url": "https://www.hermes.com/tw/zh/product/picotin-lock-18%E6%89%8B%E6%8F%90%E5%8C%85-H056289CK2D/",
-      "target": "Picotin"
-    },
-    {
-      "id": "H060991CKH0",
-      "name": "Picotin Lock 22手提包",
-      "color": "灰色",
-      "price": "NT$ 140,500",
-      "status": "in_stock",
-      "inStock": true,
-      "url": "https://www.hermes.com/tw/zh/product/picotin-lock-22%E6%89%8B%E6%8F%90%E5%8C%85-H060991CKH0/",
-      "target": "Picotin"
-    }
-  ]
+  "inStockIds": [],
+  "products": []
 }
