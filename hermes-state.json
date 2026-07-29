@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-07-14T12:02:32.268Z",
+  "checkedAt": "2026-07-29T08:00:56.739Z",
   "categoryUrl": "https://www.hermes.com/tw/zh/category/leather-goods/bags-and-clutches/womens-bags-and-clutches/",
   "targetLabels": [
     "Lindy 26",
@@ -16,6 +16,52 @@
     "Roulis",
     "Kelly Dance"
   ],
-  "inStockIds": [],
-  "products": []
+  "inStockIds": [
+    "H051568CK37",
+    "H069426CCCI",
+    "H085414CKAA",
+    "H085800CKAH"
+  ],
+  "products": [
+    {
+      "id": "H085800CKAH",
+      "name": "Evelyne 16 Amazone肩背包",
+      "color": "綠色",
+      "price": "NT$ 89,100",
+      "status": "in_stock",
+      "inStock": true,
+      "url": "https://www.hermes.com/tw/zh/product/evelyne-16-amazone%E8%82%A9%E8%83%8C%E5%8C%85-H085800CKAH/",
+      "target": "Evelyne Mini"
+    },
+    {
+      "id": "H069426CCCI",
+      "name": "Evelyne 16 Amazone肩背包",
+      "color": "米色/原色",
+      "price": "NT$ 83,400",
+      "status": "in_stock",
+      "inStock": true,
+      "url": "https://www.hermes.com/tw/zh/product/evelyne-16-amazone%E8%82%A9%E8%83%8C%E5%8C%85-H069426CCCI/",
+      "target": "Evelyne Mini"
+    },
+    {
+      "id": "H051568CK37",
+      "name": "Garden Party 30手提包",
+      "color": "米色/原色",
+      "price": "NT$ 157,100",
+      "status": "in_stock",
+      "inStock": true,
+      "url": "https://www.hermes.com/tw/zh/product/garden-party-30%E6%89%8B%E6%8F%90%E5%8C%85-H051568CK37/",
+      "target": "Garden 30"
+    },
+    {
+      "id": "H085414CKAA",
+      "name": "Herbag Zip 20手提包",
+      "color": "米色/原色",
+      "price": "NT$ 105,300",
+      "status": "in_stock",
+      "inStock": true,
+      "url": "https://www.hermes.com/tw/zh/product/herbag-zip-20%E6%89%8B%E6%8F%90%E5%8C%85-H085414CKAA/",
+      "target": "Herbag Mini"
+    }
+  ]
 }
