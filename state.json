@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-07-30T21:53:24.243Z",
+  "checkedAt": "2026-07-31T08:18:58.644Z",
   "urls": [
     "https://www.chromehearts.com/baccarat",
     "https://www.chromehearts.com/scents",
@@ -15,6 +15,7 @@
     "151407XXXXXX169",
     "158553XXXXXXXXX",
     "162006CRYXXX272",
+    "162008CRYXXX271",
     "162045CRYXXX273",
     "162045CRYXXX274",
     "164943XXXXXX140",
@@ -271,8 +272,8 @@
       "id": "162008CRYXXX271",
       "name": "+22+ Roll-On Perfume",
       "price": "220",
-      "status": "out_of_stock",
-      "inStock": false,
+      "status": "in_stock",
+      "inStock": true,
       "category": "Scents",
       "url": "https://www.chromehearts.com/scents/22-roll-on-perfume/162008CRYXXX271.html"
     },
