@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-08-07T15:11:31.743Z",
+  "checkedAt": "2026-08-07T16:09:19.056Z",
   "urls": [
     "https://www.chromehearts.com/baccarat",
     "https://www.chromehearts.com/scents",
@@ -14,6 +14,7 @@
     "151407XXXXXX00S",
     "151407XXXXXX169",
     "158553XXXXXXXXX",
+    "162006CRYXXX271",
     "162006CRYXXX272",
     "162045CRYXXX273",
     "162045CRYXXX274",
@@ -234,8 +235,8 @@
       "id": "162006CRYXXX271",
       "name": "+22+ Eau de Parfum",
       "price": "500",
-      "status": "out_of_stock",
-      "inStock": false,
+      "status": "in_stock",
+      "inStock": true,
       "category": "Scents",
       "url": "https://www.chromehearts.com/scents/22-eau-de-parfum/162006CRYXXX271.html"
     },
@@ -444,7 +445,7 @@
       "status": "in_stock",
       "inStock": true,
       "category": "Socks",
-      "url": "https://www.chromehearts.com/socks/foti-socks/180459XXXXXX389.html?dwvar_180459XXXXXX389_color=MB7&quantity=1&dwvar_180459XXXXXX389_size=MED"
+      "url": "https://www.chromehearts.com/socks/foti-socks/180459XXXXXX389.html?dwvar_180459XXXXXX389_color=MB3&quantity=1&dwvar_180459XXXXXX389_size=MED"
     },
     {
       "id": "176354XXXXXXXXX",
