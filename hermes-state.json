@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-07-29T15:34:40.690Z",
+  "checkedAt": "2026-08-11T11:21:07.670Z",
   "categoryUrl": "https://www.hermes.com/tw/zh/category/leather-goods/bags-and-clutches/womens-bags-and-clutches/",
   "targetLabels": [
     "Lindy 26",
@@ -16,6 +16,74 @@
     "Roulis",
     "Kelly Dance"
   ],
-  "inStockIds": [],
-  "products": []
+  "inStockIds": [
+    "H069426CPEW",
+    "H085414CKAA",
+    "H085414CKAJ",
+    "H085945CKAD",
+    "H086430CKAM",
+    "H086430CKAO"
+  ],
+  "products": [
+    {
+      "id": "H069426CPEW",
+      "name": "Evelyne 16 Amazone肩背包",
+      "color": "灰色",
+      "price": "NT$ 83,400",
+      "status": "in_stock",
+      "inStock": true,
+      "url": "https://www.hermes.com/tw/zh/product/evelyne-16-amazone%E8%82%A9%E8%83%8C%E5%8C%85-H069426CPEW/",
+      "target": "Evelyne Mini"
+    },
+    {
+      "id": "H085945CKAD",
+      "name": "Evelyne 16 Amazone肩背包",
+      "color": "黑色",
+      "price": "NT$ 83,400",
+      "status": "in_stock",
+      "inStock": true,
+      "url": "https://www.hermes.com/tw/zh/product/evelyne-16-amazone%E8%82%A9%E8%83%8C%E5%8C%85-H085945CKAD/",
+      "target": "Evelyne Mini"
+    },
+    {
+      "id": "H086430CKAM",
+      "name": "Herbag Zip 20手提包",
+      "color": "紅色",
+      "price": "NT$ 105,300",
+      "status": "in_stock",
+      "inStock": true,
+      "url": "https://www.hermes.com/tw/zh/product/herbag-zip-20%E6%89%8B%E6%8F%90%E5%8C%85-H086430CKAM/",
+      "target": "Herbag Mini"
+    },
+    {
+      "id": "H085414CKAJ",
+      "name": "Herbag Zip 20手提包",
+      "color": "米色/原色",
+      "price": "NT$ 105,300",
+      "status": "in_stock",
+      "inStock": true,
+      "url": "https://www.hermes.com/tw/zh/product/herbag-zip-20%E6%89%8B%E6%8F%90%E5%8C%85-H085414CKAJ/",
+      "target": "Herbag Mini"
+    },
+    {
+      "id": "H085414CKAA",
+      "name": "Herbag Zip 20手提包",
+      "color": "米色/原色",
+      "price": "NT$ 105,300",
+      "status": "in_stock",
+      "inStock": true,
+      "url": "https://www.hermes.com/tw/zh/product/herbag-zip-20%E6%89%8B%E6%8F%90%E5%8C%85-H085414CKAA/",
+      "target": "Herbag Mini"
+    },
+    {
+      "id": "H086430CKAO",
+      "name": "Herbag Zip 20手提包",
+      "color": "米色/原色",
+      "price": "NT$ 105,300",
+      "status": "in_stock",
+      "inStock": true,
+      "url": "https://www.hermes.com/tw/zh/product/herbag-zip-20%E6%89%8B%E6%8F%90%E5%8C%85-H086430CKAO/",
+      "target": "Herbag Mini"
+    }
+  ]
 }
