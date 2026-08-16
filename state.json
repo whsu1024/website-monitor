@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-08-16T16:54:56.652Z",
+  "checkedAt": "2026-08-16T23:16:57.088Z",
   "urls": [
     "https://www.chromehearts.com/baccarat",
     "https://www.chromehearts.com/scents",
@@ -15,7 +15,6 @@
     "151407XXXXXX169",
     "158553XXXXXXXXX",
     "162006CRYXXX272",
-    "162045CRYXXX273",
     "162045CRYXXX274",
     "164943XXXXXX140",
     "165064XXXXXX140",
@@ -288,8 +287,8 @@
       "id": "162045CRYXXX273",
       "name": "+22+ Scented Candle 220g",
       "price": "500",
-      "status": "in_stock",
-      "inStock": true,
+      "status": "out_of_stock",
+      "inStock": false,
       "category": "Scents",
       "url": "https://www.chromehearts.com/scents/22-scented-candle-220g/162045CRYXXX273.html"
     },
