@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-08-19T08:05:20.976Z",
+  "checkedAt": "2026-08-19T09:18:32.311Z",
   "categoryUrl": "https://www.hermes.com/tw/zh/category/leather-goods/bags-and-clutches/womens-bags-and-clutches/",
   "targetLabels": [
     "Lindy 26",
@@ -17,40 +17,18 @@
     "Kelly Dance"
   ],
   "inStockIds": [
-    "H056289CK89",
-    "H085414CCAB",
-    "H085414CKAE"
+    "H069523CKBY"
   ],
   "products": [
     {
-      "id": "H085414CKAE",
-      "name": "Herbag Zip 20手提包",
-      "color": "米色/原色",
-      "price": "NT$ 105,300",
+      "id": "H069523CKBY",
+      "name": "Halzan迷你肩背包",
+      "color": "灰色",
+      "price": "NT$ 214,300",
       "status": "in_stock",
       "inStock": true,
-      "url": "https://www.hermes.com/tw/zh/product/herbag-zip-20%E6%89%8B%E6%8F%90%E5%8C%85-H085414CKAE/",
-      "target": "Herbag Mini"
-    },
-    {
-      "id": "H085414CCAB",
-      "name": "Herbag Zip 20手提包",
-      "color": "米色/原色",
-      "price": "NT$ 105,300",
-      "status": "in_stock",
-      "inStock": true,
-      "url": "https://www.hermes.com/tw/zh/product/herbag-zip-20%E6%89%8B%E6%8F%90%E5%8C%85-H085414CCAB/",
-      "target": "Herbag Mini"
-    },
-    {
-      "id": "H056289CK89",
-      "name": "Picotin Lock 18手提包",
-      "color": "黑色",
-      "price": "NT$ 131,000",
-      "status": "in_stock",
-      "inStock": true,
-      "url": "https://www.hermes.com/tw/zh/product/picotin-lock-18%E6%89%8B%E6%8F%90%E5%8C%85-H056289CK89/",
-      "target": "Picotin"
+      "url": "https://www.hermes.com/tw/zh/product/halzan%E8%BF%B7%E4%BD%A0%E8%82%A9%E8%83%8C%E5%8C%85-H069523CKBY/",
+      "target": "Halzan"
     }
   ]
 }
