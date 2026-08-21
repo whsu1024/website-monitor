@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-08-18T19:52:42.909Z",
+  "checkedAt": "2026-08-21T14:46:59.697Z",
   "urls": [
     "https://www.chromehearts.com/baccarat",
     "https://www.chromehearts.com/scents",
@@ -14,6 +14,7 @@
     "151407XXXXXX00S",
     "151407XXXXXX169",
     "158553XXXXXXXXX",
+    "162006CRYXXX271",
     "162006CRYXXX272",
     "162045CRYXXX274",
     "164943XXXXXX140",
@@ -233,8 +234,8 @@
       "id": "162006CRYXXX271",
       "name": "+22+ Eau de Parfum",
       "price": "500",
-      "status": "out_of_stock",
-      "inStock": false,
+      "status": "in_stock",
+      "inStock": true,
       "category": "Scents",
       "url": "https://www.chromehearts.com/scents/22-eau-de-parfum/162006CRYXXX271.html"
     },
