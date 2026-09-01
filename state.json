@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-09-01T16:52:41.746Z",
+  "checkedAt": "2026-09-01T19:42:12.721Z",
   "urls": [
     "https://www.chromehearts.com/baccarat",
     "https://www.chromehearts.com/scents",
@@ -16,6 +16,7 @@
     "158553XXXXXXXXX",
     "162006CRYXXX271",
     "162006CRYXXX272",
+    "162008CRYXXX272",
     "162045CRYXXX273",
     "162045CRYXXX274",
     "164943XXXXXX140",
@@ -371,8 +372,8 @@
       "id": "162008CRYXXX272",
       "name": "+33+ Roll-On Perfume",
       "price": "220",
-      "status": "out_of_stock",
-      "inStock": false,
+      "status": "in_stock",
+      "inStock": true,
       "category": "Scents",
       "url": "https://www.chromehearts.com/scents/33-roll-on-perfume/162008CRYXXX272.html"
     },
