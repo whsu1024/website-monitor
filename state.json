@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-09-03T04:18:08.380Z",
+  "checkedAt": "2026-09-05T08:39:03.684Z",
   "urls": [
     "https://www.chromehearts.com/baccarat",
     "https://www.chromehearts.com/scents",
@@ -43,7 +43,6 @@
     "201583AFWXXX033",
     "201584AFWXXX030",
     "201585AFWXXX030",
-    "201635AFWXXX033",
     "202334AFWXXX030",
     "207467CRYXXX054",
     "207468CRYXXX055",
@@ -228,8 +227,8 @@
       "id": "201635AFWXXX033",
       "name": "LACE THONG",
       "price": "275",
-      "status": "in_stock",
-      "inStock": true,
+      "status": "out_of_stock",
+      "inStock": false,
       "category": "INTIMATES",
       "url": "https://www.chromehearts.com/intimates/lace-thong/201635AFWXXX033.html?dwvar_201635AFWXXX033_size=LRG"
     },
