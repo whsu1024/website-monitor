@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-09-09T20:03:34.762Z",
+  "checkedAt": "2026-09-09T22:29:22.628Z",
   "urls": [
     "https://www.chromehearts.com/baccarat",
     "https://www.chromehearts.com/scents",
@@ -9,10 +9,6 @@
   ],
   "inStockIds": [
     "092826AI6XXXXXX",
-    "146053XXXXXX00R",
-    "146053XXXXXX142",
-    "151407XXXXXX00S",
-    "151407XXXXXX169",
     "158553XXXXXXXXX",
     "162006CRYXXX271",
     "162006CRYXXX272",
@@ -47,8 +43,6 @@
     "207467CRYXXX054",
     "207468CRYXXX055",
     "208280XXXXXXXXX",
-    "208531BLUXXX752",
-    "208531PNKXXX751",
     "209670XXXXXXXXX"
   ],
   "products": [
@@ -251,33 +245,6 @@
       "url": "https://www.chromehearts.com/scents/22-eau-de-parfum/162006CRYXXX271.html"
     },
     {
-      "id": "151407XXXXXX00S",
-      "name": "+22+ Incense Refill",
-      "price": "100",
-      "status": "in_stock",
-      "inStock": true,
-      "category": "Scents",
-      "url": "https://www.chromehearts.com/scents/22-incense-refill/151407XXXXXX00S.html"
-    },
-    {
-      "id": "146053XXXXXX00R",
-      "name": "+22+ Incense Set with Holder",
-      "price": "200",
-      "status": "in_stock",
-      "inStock": true,
-      "category": "Scents",
-      "url": "https://www.chromehearts.com/scents/22-incense-set-with-holder/146053XXXXXX00R.html"
-    },
-    {
-      "id": "208531PNKXXX751",
-      "name": "+22+ Perfumed Hand Spray",
-      "price": "110",
-      "status": "in_stock",
-      "inStock": true,
-      "category": "Scents",
-      "url": "https://www.chromehearts.com/scents/22-perfumed-hand-spray/208531PNKXXX751.html"
-    },
-    {
       "id": "162008CRYXXX271",
       "name": "+22+ Roll-On Perfume",
       "price": "220",
@@ -314,15 +281,6 @@
       "url": "https://www.chromehearts.com/scents/22-scented-candle-refill-200g/175740XXXXXX273.html"
     },
     {
-      "id": "214141D7BXXX01S",
-      "name": "+22+ Scented Candle Set 35G",
-      "price": "150",
-      "status": "out_of_stock",
-      "inStock": false,
-      "category": "Scents",
-      "url": "https://www.chromehearts.com/scents/22-scented-candle-set-35g/214141D7BXXX01S.html"
-    },
-    {
       "id": "179527XXXXXX273",
       "name": "+22+ Soap on a Rope",
       "price": "90",
@@ -339,33 +297,6 @@
       "inStock": true,
       "category": "Scents",
       "url": "https://www.chromehearts.com/scents/33-eau-de-parfum/162006CRYXXX272.html"
-    },
-    {
-      "id": "151407XXXXXX169",
-      "name": "+33+ Incense Refill",
-      "price": "100",
-      "status": "in_stock",
-      "inStock": true,
-      "category": "Scents",
-      "url": "https://www.chromehearts.com/scents/33-incense-refill/151407XXXXXX169.html"
-    },
-    {
-      "id": "146053XXXXXX142",
-      "name": "+33+ Incense Set with Holder",
-      "price": "200",
-      "status": "in_stock",
-      "inStock": true,
-      "category": "Scents",
-      "url": "https://www.chromehearts.com/scents/33-incense-set-with-holder/146053XXXXXX142.html"
-    },
-    {
-      "id": "208531BLUXXX752",
-      "name": "+33+ Perfumed Hand Spray",
-      "price": "110",
-      "status": "in_stock",
-      "inStock": true,
-      "category": "Scents",
-      "url": "https://www.chromehearts.com/scents/33-perfumed-hand-spray/208531BLUXXX752.html"
     },
     {
       "id": "162008CRYXXX272",
@@ -404,15 +335,6 @@
       "url": "https://www.chromehearts.com/scents/33-scented-candle-refill-200g/175740XXXXXX274.html"
     },
     {
-      "id": "214141D7BXXX01T",
-      "name": "+33+ Scented Candle Set 35G",
-      "price": "150",
-      "status": "out_of_stock",
-      "inStock": false,
-      "category": "Scents",
-      "url": "https://www.chromehearts.com/scents/33-scented-candle-set-35g/214141D7BXXX01T.html"
-    },
-    {
       "id": "179527XXXXXX274",
       "name": "+33+ Soap on a Rope",
       "price": "90",
@@ -420,15 +342,6 @@
       "inStock": true,
       "category": "Scents",
       "url": "https://www.chromehearts.com/scents/33-soap-on-a-rope/179527XXXXXX274.html"
-    },
-    {
-      "id": "148310SLVXXX186",
-      "name": "Matchstick Holder",
-      "price": "1500",
-      "status": "out_of_stock",
-      "inStock": false,
-      "category": "Scents",
-      "url": "https://www.chromehearts.com/scents/matchstick-holder/148310SLVXXX186.html"
     },
     {
       "id": "176354XXXXXX349",
