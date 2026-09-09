@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-09-09T17:47:06.158Z",
+  "checkedAt": "2026-09-09T20:03:34.762Z",
   "urls": [
     "https://www.chromehearts.com/baccarat",
     "https://www.chromehearts.com/scents",
@@ -35,6 +35,7 @@
     "177732CRYXXX042",
     "177733CRYXXX042",
     "177734CRYXXX042",
+    "179527XXXXXX273",
     "179527XXXXXX274",
     "180459XXXXXX389",
     "191715D5DXXX408",
@@ -325,8 +326,8 @@
       "id": "179527XXXXXX273",
       "name": "+22+ Soap on a Rope",
       "price": "90",
-      "status": "out_of_stock",
-      "inStock": false,
+      "status": "in_stock",
+      "inStock": true,
       "category": "Scents",
       "url": "https://www.chromehearts.com/scents/22-soap-on-a-rope/179527XXXXXX273.html"
     },
