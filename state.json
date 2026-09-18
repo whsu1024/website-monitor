@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-09-09T22:29:22.628Z",
+  "checkedAt": "2026-09-18T19:44:00.093Z",
   "urls": [
     "https://www.chromehearts.com/baccarat",
     "https://www.chromehearts.com/scents",
@@ -139,7 +139,7 @@
     {
       "id": "209670XXXXXXXXX",
       "name": "BOXER BRIEF - CLASSIC RIB",
-      "price": "120",
+      "price": "130",
       "status": "in_stock",
       "inStock": true,
       "category": "BOXERS & LEGGINGS",
@@ -148,7 +148,7 @@
     {
       "id": "158553XXXXXXXXX",
       "name": "BOXER BRIEF - LONG",
-      "price": "90",
+      "price": "100",
       "status": "in_stock",
       "inStock": true,
       "category": "BOXERS & LEGGINGS",
@@ -157,7 +157,7 @@
     {
       "id": "208280XXXXXXXXX",
       "name": "FOTI BOXER BRIEF - LONG",
-      "price": "100",
+      "price": "110",
       "status": "in_stock",
       "inStock": true,
       "category": "BOXERS & LEGGINGS",
@@ -166,7 +166,7 @@
     {
       "id": "165064XXXXXX140",
       "name": "LEGGINGS",
-      "price": "245",
+      "price": "275",
       "status": "in_stock",
       "inStock": true,
       "category": "BOXERS & LEGGINGS",
@@ -175,7 +175,7 @@
     {
       "id": "164943XXXXXX140",
       "name": "LONG JOHNS",
-      "price": "245",
+      "price": "275",
       "status": "in_stock",
       "inStock": true,
       "category": "BOXERS & LEGGINGS",
