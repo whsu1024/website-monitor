@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-10-10T08:34:22.054Z",
+  "checkedAt": "2026-10-10T14:41:11.484Z",
   "categoryUrl": "https://www.hermes.com/tw/zh/category/leather-goods/bags-and-clutches/womens-bags-and-clutches/",
   "targetLabels": [
     "Lindy 26",
@@ -16,30 +16,6 @@
     "Roulis",
     "Kelly Dance"
   ],
-  "inStockIds": [
-    "H069523CCAH",
-    "H073428CKT3"
-  ],
-  "products": [
-    {
-      "id": "H069523CCAH",
-      "name": "Halzan迷你肩背包",
-      "color": "黑色",
-      "price": "NT$ 214,300",
-      "status": "in_stock",
-      "inStock": true,
-      "url": "https://www.hermes.com/tw/zh/product/halzan%E8%BF%B7%E4%BD%A0%E8%82%A9%E8%83%8C%E5%8C%85-H069523CCAH/",
-      "target": "Halzan"
-    },
-    {
-      "id": "H073428CKT3",
-      "name": "Lindy 26手提包",
-      "color": "棕色",
-      "price": "NT$ 354,700",
-      "status": "in_stock",
-      "inStock": true,
-      "url": "https://www.hermes.com/tw/zh/product/lindy-26%E6%89%8B%E6%8F%90%E5%8C%85-H073428CKT3/",
-      "target": "Lindy 26"
-    }
-  ]
+  "inStockIds": [],
+  "products": []
 }
