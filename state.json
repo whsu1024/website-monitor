@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-10-10T17:35:53.834Z",
+  "checkedAt": "2026-10-17T05:04:36.112Z",
   "urls": [
     "https://www.chromehearts.com/baccarat",
     "https://www.chromehearts.com/scents",
@@ -32,7 +32,6 @@
     "176354XXXXXX349",
     "176354XXXXXXXXX",
     "177730CRYXXX013",
-    "177731CRYXXX042",
     "177732CRYXXX042",
     "177734CRYXXX042",
     "179527XXXXXX273",
@@ -65,8 +64,8 @@
       "id": "177731CRYXXX042",
       "name": "CHAMPAGNE FLUTE",
       "price": "2800",
-      "status": "in_stock",
-      "inStock": true,
+      "status": "out_of_stock",
+      "inStock": false,
       "category": "Baccarat",
       "url": "https://www.chromehearts.com/baccarat/champagne-flute/177731CRYXXX042.html"
     },
