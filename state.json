@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-10-20T20:42:56.143Z",
+  "checkedAt": "2026-10-21T20:52:27.174Z",
   "urls": [
     "https://www.chromehearts.com/baccarat",
     "https://www.chromehearts.com/scents",
@@ -48,7 +48,7 @@
     {
       "id": "177730CRYXXX013",
       "name": "ASHTRAY",
-      "price": "3150",
+      "price": "$3,150",
       "status": "in_stock",
       "inStock": true,
       "category": "Baccarat",
@@ -57,7 +57,7 @@
     {
       "id": "177731CRYXXX042",
       "name": "CHAMPAGNE FLUTE",
-      "price": "2800",
+      "price": "$2,800",
       "status": "out_of_stock",
       "inStock": false,
       "category": "Baccarat",
@@ -66,7 +66,7 @@
     {
       "id": "174310CRYXXX005",
       "name": "COFFEE SET",
-      "price": "1650",
+      "price": "$1,650",
       "status": "in_stock",
       "inStock": true,
       "category": "Baccarat",
@@ -75,7 +75,7 @@
     {
       "id": "174131CRYXXX013",
       "name": "DECANTER",
-      "price": "4275",
+      "price": "$4,275",
       "status": "in_stock",
       "inStock": true,
       "category": "Baccarat",
@@ -84,7 +84,7 @@
     {
       "id": "177734CRYXXX042",
       "name": "MARTINI",
-      "price": "2625",
+      "price": "$2,625",
       "status": "in_stock",
       "inStock": true,
       "category": "Baccarat",
@@ -93,7 +93,7 @@
     {
       "id": "207467CRYXXX054",
       "name": "SHOT GLASS",
-      "price": "2400",
+      "price": "$2,400",
       "status": "in_stock",
       "inStock": true,
       "category": "Baccarat",
@@ -102,7 +102,7 @@
     {
       "id": "207468CRYXXX055",
       "name": "TRIPLE OLD FASHION",
-      "price": "3850",
+      "price": "$3,850",
       "status": "in_stock",
       "inStock": true,
       "category": "Baccarat",
@@ -111,7 +111,7 @@
     {
       "id": "174132CRYXXX015",
       "name": "TUMBLER",
-      "price": "2625",
+      "price": "$2,625",
       "status": "in_stock",
       "inStock": true,
       "category": "Baccarat",
@@ -120,7 +120,7 @@
     {
       "id": "177732CRYXXX042",
       "name": "WATER",
-      "price": "2200",
+      "price": "$2,200",
       "status": "in_stock",
       "inStock": true,
       "category": "Baccarat",
@@ -129,7 +129,7 @@
     {
       "id": "177733CRYXXX042",
       "name": "WINE",
-      "price": "2200",
+      "price": "$2,200",
       "status": "out_of_stock",
       "inStock": false,
       "category": "Baccarat",
@@ -138,7 +138,7 @@
     {
       "id": "209670XXXXXXXXX",
       "name": "BOXER BRIEF - CLASSIC RIB",
-      "price": "130",
+      "price": "$130",
       "status": "in_stock",
       "inStock": true,
       "category": "BOXERS & LEGGINGS",
@@ -147,7 +147,7 @@
     {
       "id": "158553XXXXXXXXX",
       "name": "BOXER BRIEF - LONG",
-      "price": "100",
+      "price": "$100",
       "status": "in_stock",
       "inStock": true,
       "category": "BOXERS & LEGGINGS",
@@ -156,7 +156,7 @@
     {
       "id": "158552BLKXXXXXX",
       "name": "BOXER BRIEF - SHORTS",
-      "price": "95",
+      "price": "$95",
       "status": "in_stock",
       "inStock": true,
       "category": "BOXERS & LEGGINGS",
@@ -165,7 +165,7 @@
     {
       "id": "208280XXXXXXXXX",
       "name": "FOTI BOXER BRIEF - LONG",
-      "price": "110",
+      "price": "$110",
       "status": "in_stock",
       "inStock": true,
       "category": "BOXERS & LEGGINGS",
@@ -174,7 +174,7 @@
     {
       "id": "165064XXXXXX140",
       "name": "LEGGINGS",
-      "price": "275",
+      "price": "$275",
       "status": "in_stock",
       "inStock": true,
       "category": "BOXERS & LEGGINGS",
@@ -183,7 +183,7 @@
     {
       "id": "164943XXXXXX140",
       "name": "LONG JOHNS",
-      "price": "275",
+      "price": "$275",
       "status": "in_stock",
       "inStock": true,
       "category": "BOXERS & LEGGINGS",
@@ -192,7 +192,7 @@
     {
       "id": "092826AI6XXXXXX",
       "name": "CH PLUS TIGHTS",
-      "price": "255",
+      "price": "$255",
       "status": "in_stock",
       "inStock": true,
       "category": "INTIMATES",
@@ -201,7 +201,7 @@
     {
       "id": "201584AFWXXX030",
       "name": "LACE G-STRING",
-      "price": "220",
+      "price": "$220",
       "status": "in_stock",
       "inStock": true,
       "category": "INTIMATES",
@@ -210,7 +210,7 @@
     {
       "id": "201583AFWXXX033",
       "name": "LACE HIGH-WAISTED BRIEF",
-      "price": "385",
+      "price": "$385",
       "status": "in_stock",
       "inStock": true,
       "category": "INTIMATES",
@@ -219,7 +219,7 @@
     {
       "id": "201585AFWXXX030",
       "name": "LACE TEDDY",
-      "price": "990",
+      "price": "$990",
       "status": "in_stock",
       "inStock": true,
       "category": "INTIMATES",
@@ -228,7 +228,7 @@
     {
       "id": "201635AFWXXX033",
       "name": "LACE THONG",
-      "price": "275",
+      "price": "$275",
       "status": "out_of_stock",
       "inStock": false,
       "category": "INTIMATES",
@@ -237,7 +237,7 @@
     {
       "id": "202334AFWXXX030",
       "name": "LACE UNDERWIRE BRA",
-      "price": "385",
+      "price": "$385",
       "status": "in_stock",
       "inStock": true,
       "category": "INTIMATES",
@@ -246,7 +246,7 @@
     {
       "id": "162006CRYXXX271",
       "name": "+22+ Eau de Parfum",
-      "price": "500",
+      "price": "$500",
       "status": "in_stock",
       "inStock": true,
       "category": "Scents",
@@ -255,7 +255,7 @@
     {
       "id": "162008CRYXXX271",
       "name": "+22+ Roll-On Perfume",
-      "price": "220",
+      "price": "$220",
       "status": "out_of_stock",
       "inStock": false,
       "category": "Scents",
@@ -264,7 +264,7 @@
     {
       "id": "172571CRYXXX273",
       "name": "+22+ Scented Candle 100g",
-      "price": "180",
+      "price": "$180",
       "status": "in_stock",
       "inStock": true,
       "category": "Scents",
@@ -273,7 +273,7 @@
     {
       "id": "162045CRYXXX273",
       "name": "+22+ Scented Candle 220g",
-      "price": "500",
+      "price": "$500",
       "status": "out_of_stock",
       "inStock": false,
       "category": "Scents",
@@ -282,7 +282,7 @@
     {
       "id": "175740XXXXXX273",
       "name": "+22+ Scented Candle Refill 200g",
-      "price": "150",
+      "price": "$150",
       "status": "in_stock",
       "inStock": true,
       "category": "Scents",
@@ -291,7 +291,7 @@
     {
       "id": "179527XXXXXX273",
       "name": "+22+ Soap on a Rope",
-      "price": "90",
+      "price": "$90",
       "status": "in_stock",
       "inStock": true,
       "category": "Scents",
@@ -300,7 +300,7 @@
     {
       "id": "162006CRYXXX272",
       "name": "+33+ Eau de Parfum",
-      "price": "500",
+      "price": "$500",
       "status": "in_stock",
       "inStock": true,
       "category": "Scents",
@@ -309,7 +309,7 @@
     {
       "id": "162008CRYXXX272",
       "name": "+33+ Roll-On Perfume",
-      "price": "220",
+      "price": "$220",
       "status": "in_stock",
       "inStock": true,
       "category": "Scents",
@@ -318,7 +318,7 @@
     {
       "id": "172571CRYXXX274",
       "name": "+33+ Scented Candle 100g",
-      "price": "180",
+      "price": "$180",
       "status": "in_stock",
       "inStock": true,
       "category": "Scents",
@@ -327,7 +327,7 @@
     {
       "id": "162045CRYXXX274",
       "name": "+33+ Scented Candle 220g",
-      "price": "500",
+      "price": "$500",
       "status": "in_stock",
       "inStock": true,
       "category": "Scents",
@@ -336,7 +336,7 @@
     {
       "id": "175740XXXXXX274",
       "name": "+33+ Scented Candle Refill 200g",
-      "price": "150",
+      "price": "$150",
       "status": "in_stock",
       "inStock": true,
       "category": "Scents",
@@ -345,7 +345,7 @@
     {
       "id": "179527XXXXXX274",
       "name": "+33+ Soap on a Rope",
-      "price": "90",
+      "price": "$90",
       "status": "in_stock",
       "inStock": true,
       "category": "Scents",
@@ -354,7 +354,7 @@
     {
       "id": "176354XXXXXX349",
       "name": "CH LOGO SOCKS",
-      "price": "255",
+      "price": "$255",
       "status": "in_stock",
       "inStock": true,
       "category": "Socks",
@@ -363,7 +363,7 @@
     {
       "id": "191716ADLXXX406",
       "name": "EXECUTIVE SOCKS",
-      "price": "255",
+      "price": "$255",
       "status": "in_stock",
       "inStock": true,
       "category": "Socks",
@@ -372,7 +372,7 @@
     {
       "id": "180459XXXXXX389",
       "name": "FOTI SOCKS",
-      "price": "255",
+      "price": "$255",
       "status": "in_stock",
       "inStock": true,
       "category": "Socks",
@@ -381,7 +381,7 @@
     {
       "id": "176354XXXXXXXXX",
       "name": "SPORT",
-      "price": "255",
+      "price": "$255",
       "status": "in_stock",
       "inStock": true,
       "category": "Socks",
@@ -390,7 +390,7 @@
     {
       "id": "176354MB3XXX465",
       "name": "STENCIL SOCKS",
-      "price": "255",
+      "price": "$255",
       "status": "in_stock",
       "inStock": true,
       "category": "Socks",
@@ -399,7 +399,7 @@
     {
       "id": "191715D5DXXX408",
       "name": "WOMENS SPORT",
-      "price": "255",
+      "price": "$255",
       "status": "in_stock",
       "inStock": true,
       "category": "Socks",
