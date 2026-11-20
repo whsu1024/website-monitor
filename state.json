@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-16T23:51:05.329Z",
+  "checkedAt": "2026-11-20T17:14:01.173Z",
   "urls": [
     "https://www.chromehearts.com/baccarat",
     "https://www.chromehearts.com/scents",
@@ -21,7 +21,6 @@
     "172571CRYXXX273",
     "172571CRYXXX274",
     "174131CRYXXX013",
-    "174132CRYXXX015",
     "174310CRYXXX005",
     "175740XXXXXX273",
     "175740XXXXXX274",
@@ -112,8 +111,8 @@
       "id": "174132CRYXXX015",
       "name": "TUMBLER",
       "price": "2625",
-      "status": "in_stock",
-      "inStock": true,
+      "status": "out_of_stock",
+      "inStock": false,
       "category": "Baccarat",
       "url": "https://www.chromehearts.com/baccarat/tumbler/174132CRYXXX015.html"
     },
